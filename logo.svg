@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" role="img" aria-label="Tampa Bay Cleaning Professionals Corp.">
+  <!-- Insignia en forma de nube del carro del negocio: borde rosa, centro turquesa, herramientas rosas y cinta con el nombre. Versión limpia para pantalla; el original de la foto es de baja resolución. -->
+  <g fill="#8fd9dc" stroke="#e8437a" stroke-width="5">
+    <ellipse cx="200" cy="150" rx="170" ry="95"/>
+    <circle cx="110" cy="105" r="55"/><circle cx="170" cy="75" r="60"/><circle cx="250" cy="75" r="60"/><circle cx="310" cy="110" r="50"/>
+    <circle cx="120" cy="210" r="48"/><circle cx="200" cy="225" r="52"/><circle cx="285" cy="205" r="48"/>
+  </g>
+  <g stroke="#e8437a" stroke-width="7" stroke-linecap="round">
+    <line x1="155" y1="95" x2="245" y2="185"/><line x1="245" y1="95" x2="155" y2="185"/>
+  </g>
+  <g fill="#e8437a">
+    <rect x="105" y="95" width="28" height="52" rx="8" transform="rotate(-18 119 121)"/>
+    <rect x="270" y="95" width="28" height="52" rx="8" transform="rotate(18 284 121)"/>
+    <path d="M175 195 h50 l-6 42 a8 8 0 0 1 -8 7 h-22 a8 8 0 0 1 -8 -7 z"/>
+  </g>
+  <g>
+    <rect x="15" y="125" width="370" height="58" rx="10" fill="#6ed0d3" stroke="#e8437a" stroke-width="5"/>
+    <text x="200" y="152" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#ffffff" stroke="#e8437a" stroke-width="0.6">Tampa Bay Cleaning</text>
+    <text x="200" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" stroke="#e8437a" stroke-width="0.6">Professionals Corp.</text>
+  </g>
+</svg>
